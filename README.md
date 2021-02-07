@@ -38,3 +38,7 @@ It makes easier to use this file and view Confusion matrix in much elegant way
 
 ![](media/image1.png){width="4.69375in" height="5.05in"}
 
+# References: 
+
+https://github.com/DTrimarchi10/confusion_matrix
+
