@@ -1,7 +1,7 @@
 # cf_matrix.py
 
 This file contains a function called make_confusion_matrix which can be used to create a useful visualzation of a Confusion Matrix passed in as a two dimensional numpy array.
-
+It makes easier to use this file and view Confusion matrix in much elegant way
 
 # Docstring
 
@@ -35,3 +35,6 @@ This file contains a function called make_confusion_matrix which can be used to 
     cmap:          Colormap of the values displayed from matplotlib.pyplot.cm. Default is 'Blues'
                    See http://matplotlib.org/examples/color/colormaps_reference.html
 # confusion_matrix
+
+![](media/image1.png){width="4.69375in" height="5.05in"}
+
